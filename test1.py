@@ -1,2 +1,2 @@
-print("we indians are best in all IT Sector ")
+print("we indians are best in all IT ")
 print ("hello ss")
